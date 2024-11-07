@@ -1,5 +1,4 @@
 # tailwindcss
-tailwind css 
 
 installation guide:
 1. install node
@@ -17,3 +16,5 @@ installation guide:
         @tailwind components;
         @tailwind utilities;`
 7. run `npm run start`
+
+Let's start...
