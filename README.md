@@ -17,3 +17,5 @@ installation guide:
         @tailwind components;
         @tailwind utilities;
 7. run `npm run start`
+
+let's start...
